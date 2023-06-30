@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+    font-family:Helvetica, Arial, sans-serif;;
+	
+}
+
+.thug{
+	height:70vh;
+	
+}
+
+.bg a{
+	background-color:#42b72a;;
+
+}
+
+.fullset{
+	background-color:white;
+    border-radius:20px;
+
+}
+
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    height:100vh;
+}
+	
+.input input{
+	border:1px solid #ccc;
+	outline:none;
+}
+

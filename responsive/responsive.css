@@ -1,0 +1,21 @@
+@media(max-width:576px){
+
+.imgs2 {
+    top:230px!important;
+    left:30px!important;
+	
+}
+
+	
+.imgs3 {
+    top:110px!important;
+    left:30px!important;
+}
+
+.imgs4 {
+    top:122px!important;
+	bottom:50px!important;
+	right:40px!important;
+	left:330px!important;
+		
+}
